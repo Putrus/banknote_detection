@@ -1,1 +1,0 @@
-Place negative photos for the PLN 100 banknote here

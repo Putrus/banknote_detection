@@ -4,7 +4,7 @@ import subprocess
 
 def createSamples(banknote):
     cmd = [
-        os.path.join("D:\Python\PythonProjects\\beerdetection\\data\\opencv\\build\\x64\\vc15\\bin", "opencv_createsamples.exe"),
+        os.path.join("C:\\Users\\Maks\\Desktop\\kck\\banknote_detection\\data\\opencv\\build\\x64\\vc15\\bin", "opencv_createsamples.exe"),
         "-info data/pos"+str(banknote)+".txt",
         "-w 48",
         "-h 24",
@@ -29,7 +29,7 @@ def trainCascade(banknote):
             negative_count += 1
     file2.close()
     cmd = [
-        os.path.join("D:\Python\PythonProjects\\beerdetection\\data\\opencv\\build\\x64\\vc15\\bin",
+        os.path.join("C:\\Users\\Maks\\Desktop\\kck\\banknote_detection\\data\\opencv\\build\\x64\\vc15\\bin",
                      "opencv_traincascade.exe"),
         "-data data/cascade" + str(banknote)+"/",
         "-vec data/vectors/pos"+str(banknote)+".vec",
