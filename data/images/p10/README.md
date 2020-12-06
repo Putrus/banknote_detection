@@ -1,0 +1,1 @@
+Place positive photos for the PLN 10 banknote here

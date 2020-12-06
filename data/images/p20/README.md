@@ -1,0 +1,1 @@
+Place positive photos for the PLN 20 banknote here
