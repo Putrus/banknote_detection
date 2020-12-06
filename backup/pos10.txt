@@ -1,0 +1,77 @@
+images/p10/dycha1.jpg 1 243 382 141 75
+images/p10/dycha2.jpg 1 161 344 262 131
+images/p10/dycha3.jpg 1 282 554 91 46
+images/p10/dycha6.jpg 1 288 514 92 55
+images/p10/dycha7.jpg 1 268 523 111 60
+images/p10/dycha10.jpg 1 275 527 92 50
+images/p10/dycha11.jpg 1 237 518 90 45
+images/p10/dycha12.jpg 1 251 461 127 68
+images/p10/dycha13.jpg 1 127 503 265 134
+images/p10/dycha14.jpg 1 342 548 87 45
+images/p10/dycha15.jpg 1 263 471 199 112
+images/p10/dycha16.jpg 1 100 331 409 221
+images/p10/dycha17.jpg 1 292 466 124 69
+images/p10/dycha20.jpg 1 414 419 162 81
+images/p10/dycha21.jpg 1 245 472 180 99
+images/p10/dycha23.jpg 1 210 414 310 170
+images/p10/dycha24.jpg 1 248 461 216 118
+images/p10/dycha25.jpg 1 190 508 210 120
+images/p10/dycha26.jpg 1 92 489 345 191
+images/p10/dycha27.jpg 1 268 508 119 63
+images/p10/dycha28.jpg 1 187 371 199 109
+images/p10/dycha29.jpg 1 137 327 123 63
+images/p10/maksss1.jpg 1 137 524 278 148
+images/p10/maksss2.jpg 1 155 456 237 138
+images/p10/maksss3.jpg 1 67 415 355 200
+images/p10/maksss4.jpg 1 95 423 232 128
+images/p10/maksss5.jpg 1 104 428 262 141
+images/p10/maksss6.jpg 1 305 547 172 89
+images/p10/maksss7.jpg 1 212 495 114 64
+images/p10/maksss8.jpg 1 240 364 189 125
+images/p10/maksss9.jpg 1 243 506 196 119
+images/p10/maksss10.jpg 1 257 456 128 80
+images/p10/maksss11.jpg 1 247 368 122 60
+images/p10/maksss12.jpg 1 246 403 243 136
+images/p10/maksss13.jpg 1 136 478 313 161
+images/p10/maksss14.jpg 1 251 506 161 87
+images/p10/maksss15.jpg 1 65 340 393 219
+images/p10/maksss16.jpg 1 122 470 238 133
+images/p10/maksss17.jpg 1 136 454 287 144
+images/p10/maksss18.jpg 1 177 496 211 121
+images/p10/maksss19.jpg 1 193 350 227 121
+images/p10/maksss20.jpg 1 182 418 244 133
+images/p10/maksss21.jpg 1 213 484 152 80
+images/p10/maksss22.jpg 1 241 443 102 52
+images/p10/maksss23.jpg 1 244 438 102 52
+images/p10/maksss24.jpg 1 199 433 165 87
+images/p10/maksss25.jpg 1 202 352 105 54
+images/p10/maksss26.jpg 1 311 379 105 61
+images/p10/1.jpg 1 141 600 479 259
+images/p10/2.jpg 1 241 456 310 162
+images/p10/3.jpg 1 187 600 433 235
+images/p10/4.jpg 1 219 515 327 175
+images/p10/5.jpg 1 135 515 502 266
+images/p10/6.jpg 1 146 518 426 247
+images/p10/7.jpg 1 123 471 498 252
+images/p10/8.jpg 1 244 536 290 151
+images/p10/9.jpg 1 189 536 406 210
+images/p10/10.jpg 1 267 534 343 181
+images/p10/11.jpg 1 195 441 430 218
+images/p10/12.jpg 1 329 556 183 101
+images/p10/13.jpg 1 176 486 356 184
+images/p10/14.jpg 1 200 516 349 183
+images/p10/15.jpg 1 146 501 434 229
+images/p10/16.jpg 1 203 545 158 87
+images/p10/17.jpg 1 206 594 356 185
+images/p10/18.jpg 1 80 412 328 174
+images/p10/19.jpg 1 137 439 327 180
+
+
+
+
+
+
+
+ 
+
+
