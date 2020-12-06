@@ -7,7 +7,7 @@ def testbanknote(banknote, img, gray, stop_after_diagnosis,sum):
     scale = 1.05
     color = (255,255,255)
     if banknote == 10:
-        thresh = 80
+        thresh = 65
         color = (0,255,255)
     elif banknote == 20:
         thresh = 40
