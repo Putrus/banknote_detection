@@ -4,7 +4,7 @@ import subprocess
 
 def createSamples(banknote):
     cmd = [
-        os.path.join("D:\Python\PythonProjects\\beerdetection\\data\\opencv\\build\\x64\\vc15\\bin", "opencv_createsamples.exe"),
+        os.path.join(os.path.abspath(os.getcwd()) + "\\data\\opencv\\build\\x64\\vc15\\bin", "opencv_createsamples.exe"),
         "-info data/pos"+str(banknote)+".txt",
         "-w 48",
         "-h 24",
