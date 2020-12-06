@@ -81,7 +81,7 @@ if __name__ == '__main__':
         if d == "y":
             generator.generate_positive_description_file(banknote)
     elif n == "7":
-        print("Do you want save your results after test banknotes? (y/n)")
+        print("Do you want stop after diagnosis? (y/n)")
         stop_after_diagnosis = input()
         assert(stop_after_diagnosis in ("y", "n")), "Wrong input! The settings have not been saved"
         print("Do you want save your results after test banknotes? (y/n)")
@@ -92,8 +92,5 @@ if __name__ == '__main__':
         f.write(save)
         f.close()
         print("The settings have been changed successfully")
-
-
-
     else:
         print("Wrong option!")
