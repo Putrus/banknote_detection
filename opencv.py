@@ -30,7 +30,7 @@ def trainCascade(banknote):
             negative_count += 1
     file2.close()
     cmd = [
-        os.path.join("C:\\Users\\Maks\\Desktop\\kck\\banknote_detection\\data\\opencv\\build\\x64\\vc15\\bin",
+        os.path.join(os.path.abspath(os.getcwd()) + "\\data\\opencv\\build\\x64\\vc15\\bin",
                      "opencv_traincascade.exe"),
         "-data data/cascade" + str(banknote)+"/",
         "-vec data/vectors/pos"+str(banknote)+".vec",
