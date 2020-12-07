@@ -7,16 +7,20 @@ def testbanknote(banknote, img, gray, stop_after_diagnosis,sum):
     scale = 1.05
     color = (255,255,255)
     if banknote == 10:
-        thresh = 65
+        thresh = 99
+        scale = 1.05
         color = (0,255,255)
     elif banknote == 20:
-        thresh = 40
+        thresh = 500
+        scale = 1.05
         color = (0,0,255)
     elif banknote == 50:
-        thresh = 55
+        thresh = 100
+        scale = 1.05
         color = (255,0,0)
     elif banknote == 100:
-        thresh = 100
+        thresh = 80
+        scale = 1.05
         color = (0,255,0)
     banknotes = classifier.detectMultiScale(gray, scale, thresh)
     if banknotes is ():
@@ -47,8 +51,9 @@ def testImage(filename, what_banknote, stop_after_diagnosis, save):
         sum+=testbanknote(20, img, gray, stop_after_diagnosis, sum)
         sum+=testbanknote(50, img, gray, stop_after_diagnosis, sum)
         sum+=testbanknote(100, img, gray, stop_after_diagnosis, sum)
-    cv2.imshow('banknotes value: ' + str(sum), img)
-    cv2.waitKey(0)
+    if stop_after_diagnosis:
+        cv2.imshow('banknotes value: ' + str(sum), img)
+        cv2.waitKey(0)
     if save:
         cv2.imwrite("tests/results/" + filename + "_result.jpg", img)
     cv2.destroyAllWindows()

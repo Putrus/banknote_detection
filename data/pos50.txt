@@ -1,60 +1,78 @@
-data/images/p50/1.jpg
-data/images/p50/10.jpg
-data/images/p50/11.jpg
-data/images/p50/12.jpg
-data/images/p50/13.jpg
-data/images/p50/14.jpg
-data/images/p50/15.jpg
-data/images/p50/16.jpg
-data/images/p50/17.jpg
-data/images/p50/18.jpg
-data/images/p50/19.jpg
-data/images/p50/2.jpg
-data/images/p50/20.jpg
-data/images/p50/21.jpg
-data/images/p50/22.jpg
-data/images/p50/23.jpg
-data/images/p50/24.jpg
-data/images/p50/25.jpg
-data/images/p50/26.jpg
-data/images/p50/27.jpg
-data/images/p50/3.jpg
-data/images/p50/4.jpg
-data/images/p50/5.jpg
-data/images/p50/6.jpg
-data/images/p50/7.jpg
-data/images/p50/8.jpg
-data/images/p50/9.jpg
-data/images/p50/maksss27.jpg
-data/images/p50/maksss28.jpg
-data/images/p50/maksss29.jpg
-data/images/p50/maksss30.jpg
-data/images/p50/maksss31.jpg
-data/images/p50/maksss32.jpg
-data/images/p50/maksss33.jpg
-data/images/p50/maksss34.jpg
-data/images/p50/maksss35.jpg
-data/images/p50/maksss36.jpg
-data/images/p50/maksss37.jpg
-data/images/p50/maksss38.jpg
-data/images/p50/maksss39.jpg
-data/images/p50/maksss40.jpg
-data/images/p50/maksss41.jpg
-data/images/p50/maksss42.jpg
-data/images/p50/maksss43.jpg
-data/images/p50/maksss44.jpg
-data/images/p50/piec1.jpg
-data/images/p50/piec10.jpg
-data/images/p50/piec11.jpg
-data/images/p50/piec13.jpg
-data/images/p50/piec14.jpg
-data/images/p50/piec15.jpg
-data/images/p50/piec16.jpg
-data/images/p50/piec17.jpg
-data/images/p50/piec2.jpg
-data/images/p50/piec20.jpg
-data/images/p50/piec21.jpg
-data/images/p50/piec3.jpg
-data/images/p50/piec4.jpg
-data/images/p50/piec5.jpg
-data/images/p50/piec7.jpg
+images/p50/1.jpg 1 226 540 340 171
+images/p50/10.jpg 1 79 385 549 264
+images/p50/11.jpg 1 154 511 406 214
+images/p50/12.jpg 1 184 423 427 215
+images/p50/13.jpg 1 85 536 494 247
+images/p50/14.jpg 1 123 468 446 218
+images/p50/15.jpg 1 251 564 383 190
+images/p50/16.jpg 1 158 468 433 212
+images/p50/17.jpg 1 146 493 447 221
+images/p50/18.jpg 1 122 562 392 193
+images/p50/19.jpg 1 112 481 527 274
+images/p50/2.jpg 1 143 452 425 206
+images/p50/20.jpg 1 6 60 921 455
+images/p50/21.jpg 1 42 55 932 455
+images/p50/22.jpg 1 0 0 319 158
+images/p50/23.jpg 1 214 512 169 82
+images/p50/24.jpg 1 164 544 426 206
+images/p50/25.jpg 1 59 475 339 169
+images/p50/26.jpg 1 53 387 295 145
+images/p50/27.jpg 1 14 585 335 163
+images/p50/3.jpg 1 142 441 446 227
+images/p50/4.jpg 1 113 503 471 236
+images/p50/5.jpg 1 171 570 386 196
+images/p50/6.jpg 1 313 484 241 118
+images/p50/7.jpg 1 189 516 381 187
+images/p50/8.jpg 1 212 403 304 148
+images/p50/9.jpg 1 246 385 255 128
+images/p50/maksss27.jpg 1 229 431 161 93
+images/p50/maksss28.jpg 1 262 527 116 67
+images/p50/maksss29.jpg 1 335 499 151 77
+images/p50/maksss30.jpg 1 156 429 263 134
+images/p50/maksss31.jpg 1 223 526 152 84
+images/p50/maksss32.jpg 1 345 416 178 113
+images/p50/maksss33.jpg 1 255 444 157 79
+images/p50/maksss34.jpg 1 119 369 283 158
+images/p50/maksss35.jpg 1 257 510 139 83
+images/p50/maksss36.jpg 1 304 284 117 65
+images/p50/maksss37.jpg 1 158 442 337 178
+images/p50/maksss38.jpg 1 84 345 229 128
+images/p50/maksss39.jpg 1 300 411 293 146
+images/p50/maksss40.jpg 1 211 464 245 123
+images/p50/maksss41.jpg 1 191 588 171 95
+images/p50/maksss42.jpg 1 266 434 213 107
+images/p50/maksss43.jpg 1 189 453 270 147
+images/p50/maksss44.jpg 1 238 423 150 90
+images/p50/piec1.jpg 1 79 290 350 170
+images/p50/piec10.jpg 1 194 386 271 135
+images/p50/piec11.jpg 1 39 361 118 60
+images/p50/piec13.jpg 1 213 405 149 79
+images/p50/piec14.jpg 1 131 407 222 115
+images/p50/piec15.jpg 1 230 493 89 50
+images/p50/piec16.jpg 1 216 451 90 47
+images/p50/piec17.jpg 1 264 189 210 117
+images/p50/piec2.jpg 1 225 44 332 164 
+images/p50/piec20.jpg 1 161 395 263 137
+images/p50/piec21.jpg 1 181 298 126 244
+images/p50/piec3.jpg 1 217 72 278 136 
+images/p50/piec4.jpg 1 167 416 260 116
+images/p50/piec5.jpg 1 169 255 236 112
+images/p50/piec7.jpg 1 44 387 121 211
+images/p50/p1.jpg 1 312 266 166 92
+images/p50/p10.jpg 1 200 724 361 191
+images/p50/p11.jpg 1 472 609 220 130
+images/p50/p12.jpg 1 75 642 216 112
+images/p50/p13.jpg 1 217 448 127 62
+images/p50/p14.jpg 1 425 355 275 145
+images/p50/p15.jpg 1 432 344 317 164
+images/p50/p16.jpg 1 440 203 295 152
+images/p50/p17.jpg 1 439 624 302 147
+images/p50/p18.jpg 1 409 659 345 171
+images/p50/p2.jpg 1 469 452 174 85
+images/p50/p3.jpg 1 453 214 142 73
+images/p50/p4.jpg 1 452 214 144 73
+images/p50/p5.jpg 1 429 311 157 79
+images/p50/p6.jpg 1 424 270 212 104
+images/p50/p7.jpg 1 79 559 264 125
+images/p50/p8.jpg 1 210 669 325 168
+images/p50/p9.jpg 1 225 726 337 174
